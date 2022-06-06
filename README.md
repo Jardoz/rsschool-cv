@@ -1,1 +1,1 @@
-https://jardoz.github.io/rsschool-cv/cv
+https://jardoz.github.io/rsschool-cv/
