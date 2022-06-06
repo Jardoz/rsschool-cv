@@ -1,2 +1,1 @@
-# rsschool-cv
-Rsschool-cv folder
+https://jardoz.github.io/rsschool-cv/
